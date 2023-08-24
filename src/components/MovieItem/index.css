@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.thumbnail {
+  width: 340px;
+  height: 180px;
+}
+
+.thumbnail-button {
+  background-color: transparent;
+  padding: 0px;
+  outline: none;
+  cursor: pointer;
+}
+
+.close-icon {
+  align-self: flex-end;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+  padding: 15px 30px 50px 30px;
+}

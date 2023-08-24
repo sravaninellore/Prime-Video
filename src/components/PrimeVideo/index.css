@@ -1,0 +1,29 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+
+.prime-video {
+  width: 100%;
+  height: 220px;
+  max-height: 400px;
+}
+
+.bg-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+.movie-container {
+  padding-left: 38px;
+  padding-right: 38px;
+  padding-bottom: 50px;
+}
+
+.movie-heading {
+  color: #ffffff;
+  margin: 0px;
+  font-size: 26px;
+  margin-top: 30px;
+  margin-bottom: 19px;
+}
